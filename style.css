@@ -1,0 +1,29 @@
+body{
+    background:gray;
+    color:white;
+  }
+  h1{
+    text-align:center;
+  }
+  
+  #div1{
+    float:left;
+  }
+  #div2{
+    float:right;
+  }
+  img{
+    width:100px;
+  }
+  #div3{
+    float:left;
+  }
+  #div4{
+    float:right;
+  }
+  #div5{
+    float:left;
+  }
+  #div6{
+    float:right;
+  }
